@@ -1,9 +1,11 @@
 /*
-created by Md. Asaf-uddowla Golap
-		   asaf.golap@kuet.ac.bd
+created by Md. Sazidul
 
 */
 @import url('../../maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+h1{
+	font-size: large;
+}
 a{
 	text-decoration: none;
 }
